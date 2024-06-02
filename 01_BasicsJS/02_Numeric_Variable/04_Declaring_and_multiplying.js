@@ -1,19 +1,23 @@
-// Exercise 4
+// Exercise 1.2.4
+
 // Declare a variable named 'quantity' with the value 5.
+// Write your code below
+
+
 // Declare another variable named 'pricePerUnit' with the value 25.
-// Calculate the total price by multiplying these two variables.
+// Write your code below
 
-// Your code here
-let variableName1 = numericValue
-let variableName2 = numericValue
-let variableName3 = quantity * pricePerUnit
 
-console.log(totalPrice);
-// Expected Output: 125
+// Declare another variable named `totalPrice` and assign it the value of the formula: quantity * pricePerUnit
+// Write your code below
+
+
+
+console.log(`I have ${quantity} shirts and each one costs ${pricePerUnit}. The total price is $${totalPrice}.`);
+// Expected Output: I have 5 shirts and each one costs 25. The total price is $125.
 
 
 
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
-
 // node 01_BasicsJS/02_Numeric_Variable/04_Declaring_and_multiplying.js

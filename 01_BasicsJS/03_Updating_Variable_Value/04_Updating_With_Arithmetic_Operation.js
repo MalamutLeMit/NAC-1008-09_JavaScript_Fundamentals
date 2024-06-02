@@ -1,18 +1,23 @@
-// Exercise 4
-// Declare two variables, 'currentValue' with the value 15 and 'increment' with the value 5.
-// Update the value of 'currentValue' by adding the value of 'increment'.
+// Exercise 1.3.4
 
-// Your code here
-let variableName1 = numericValue1
-let variableName2 = numericValue2
-// Update the 'currentValue' by adding 'increment'
+// Declare a `let` variable named 'currentValue' with the value 15.
+// Write your code below
 
-console.log(currentValue);
-// Expected Output: 20
+
+// Declare another variable named 'increment' with the value 5.
+// Write your code below
+
+
+// Update 'currentValue' by adding the value of 'increment' using the += operator.
+// Write your code below
+
+
+
+console.log(`The current value is: ${currentValue}`);
+// Expected Output: The current value is: 20
 
 
 
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
-
 // node 01_BasicsJS/03_Updating_Variable_Value/04_Updating_With_Arithmetic_Operation.js

@@ -1,16 +1,25 @@
-// Exercise 2
-// Declare a variable named 'currentTemperature' and assign it the value 25.
+// Exercise 1.1.2
+
+// Declare a 'let' variable named 'currentTemperature' 
+    // and assign it the value 25.
+// Write your code below
+
+
+
+console.log(`The current temperature is: `, currentTemperature);
+// Expected Output: The current temperature is: 25
+
+
 // Update the value of 'currentTemperature' to 30.
+// Write your code below
 
-// Your code here
-let variableName = 'valueName'
 
-console.log(currentTemperature);
-// Expected Output: 30
+
+console.log(`Now the current temperature is: `,currentTemperature);
+// Expected Output: Now the current temperature is: 30
 
 
 
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
-
 // node 01_BasicsJS/01_Declaring_Variables/02_Changing_Variable_Value.js

@@ -1,18 +1,17 @@
-// Exercise 4
-// Declare two variables, 'bookTitle' with the value 'The JavaScript Guide' and 'numPages' with the value 150.
+// Exercise 1.1.4
 
-// Your code here
-let variableName1 = 'valueName1'
-let variableName2 = 'valueName2'
+// Declare three variables using 'let': 'fullname', 'age', and 'country'
+    // Assign values to these variables: 'John Doe', 30, and 'Canada';
+    // The variables declaration should be on the same line. 
+// Write your code below
 
-console.log(bookTitle);
-console.log(numPages);
-// Expected Output: The JavaScript Guide
-// Expected Output: 150
+
+
+console.log(`I know ${firstname}, he is ${age} years old and he lives in ${country}.`);
+// Expected Output: I know John Doe, he is 30 years old and he lives in Canada.
 
 
 
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
-
 // node 01_BasicsJS/01_Declaring_Variables/04_Declaring_Multiple_Variables.js
