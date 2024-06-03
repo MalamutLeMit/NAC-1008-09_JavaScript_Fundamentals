@@ -1,11 +1,11 @@
 // Exercise 1.4.1
 
-// Declare two variables, 'firstName' with the value 'Alice' and 'lastName' with the value 'Smith'.
+// Step 1: Declare two variables, 'firstName' with the value 'Alice' and 'lastName' with the value 'Smith'.
 // Write your code below
 
 
-// Concatenate them to create a variable named 'fullName'.
-    // Hint: You can concatenate strings with the '+' operator or the 'concat()' method or using ${}.
+// Step 2: Concatenate them to create a variable named 'fullName'.
+    // Hint: You can concatenate strings with the '+' operator OR the 'concat()' method OR using ${}.
 // Write your code below
 
 

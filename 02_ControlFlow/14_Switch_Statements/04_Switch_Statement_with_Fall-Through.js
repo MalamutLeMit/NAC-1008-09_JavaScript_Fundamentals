@@ -1,21 +1,25 @@
-// Exercise 1.14.4
+// Exercise 2.14.4
+
 // Declare a variable 'month' with the value 'August'.
+// Write your code below
+
+
 // Use a switch statement to log different messages based on the month.
-
-// Your code here
-let variableName = stringValue;
-
-switch (month) {
-  case 'January':
-    console.log('It\'s the beginning of the year.');
+  // if it's 'January', console.log(`It's the beginning of the year.`)
+  // if it's 'August', 'September', or 'October', console.log(`It's the second half of the year.`)
+  // if it's any other month, console.log(`It's a different month.`)
+// Write your code below
+switch () {
+  case '':
+    
     break;
-  case 'August':
-  case 'September':
-  case 'October':
-    console.log('It\'s the second half of the year.');
+  case '':
+  case '':
+  case '':
+    
     break;
   default:
-    console.log('It\'s a different month.');
+    
 }
 // Expected Output: It's the second half of the year.
 

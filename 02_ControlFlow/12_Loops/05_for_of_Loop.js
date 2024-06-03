@@ -1,13 +1,17 @@
 // Exercise 2.12.5
+
 // Declare an array 'numbers' with values 1, 2, 3, 4, 5.
+// Write your code below
+
+
 // Use a for...of loop to log each value.
-
-// Your code here
-const variableName = [1, 2, 3, 4, 5];
-
-for (const valueName of numbers) {
+// Hint: for (value of array) {log}
+for () {
   console.log('Value: ' + valueName);
 }
+
+
+
 // Expected Output:
 // Value: 1
 // Value: 2

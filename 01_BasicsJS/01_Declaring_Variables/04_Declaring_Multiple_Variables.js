@@ -1,6 +1,6 @@
 // Exercise 1.1.4
 
-// Declare three variables using 'let': 'fullname', 'age', and 'country'
+// Step 1: Declare three variables using 'let': 'fullname', 'age', and 'country'
     // Assign values to these variables: 'John Doe', 30, and 'Canada';
     // The variables declaration should be on the same line. 
 // Write your code below

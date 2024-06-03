@@ -1,6 +1,6 @@
 // Exercise 1.5.1
 
-// Declare a variable named 'favoriteColor' and assign it the value 'blue'.
+// Step 1: Declare a variable named 'favoriteColor' and assign it the value 'blue'.
 // Write your code below
 
 
@@ -10,6 +10,8 @@ favoriteColor === 'blue'
     ? console.log(`My favorite color is ${favoriteColor}`) 
     : console.log(`My favorite color is not blue`);
 
+
+    
 // Expected Output: My favorite color is blue
 
 

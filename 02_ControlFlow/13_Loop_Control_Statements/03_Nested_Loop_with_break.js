@@ -1,16 +1,28 @@
 // Exercise 2.13.3
+
+// Declare a variable 'row' with the value 0.
+// Write your code below
+
+
+// Declare a variable 'column' with the value 0.
+// Write your code below
+
+
 // Use nested for loops to iterate over rows and columns.
 // Add a break statement to terminate the outer loop when the row is 2 and the column is 1.
-
-// Your code here
-for (let variableName1 = 0; variableName1 < 3; variableName1++) {
-  for (let variableName2 = 0; variableName2 < 2; variableName2++) {
-    if (variableName1 === 2 && variableName2 === 1) {
+// Hint: for (let x=0; x<3; x++) { for (let y=0; y<2; y++) { if (condition1 && condition2) { break; } log } }
+// Write your code below
+for () {
+  for () {
+    if () {
       break;
     }
     console.log('Row ' + row + ', Column ' + column);
   }
 }
+
+
+
 // Expected Output:
 // Row 0, Column 0
 // Row 0, Column 1

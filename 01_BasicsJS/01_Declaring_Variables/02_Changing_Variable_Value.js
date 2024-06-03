@@ -1,7 +1,7 @@
 // Exercise 1.1.2
 
-// Declare a 'let' variable named 'currentTemperature' 
-    // and assign it the value 25.
+// Step 1: Declare a let variable named 'currentTemperature'
+// and assign it the value 25.
 // Write your code below
 
 
@@ -10,7 +10,7 @@ console.log(`The current temperature is: `, currentTemperature);
 // Expected Output: The current temperature is: 25
 
 
-// Update the value of 'currentTemperature' to 30.
+// Step 2: Update the value of 'currentTemperature' to 30.
 // Write your code below
 
 

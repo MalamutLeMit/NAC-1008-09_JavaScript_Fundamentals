@@ -1,14 +1,14 @@
 // Exercise 1.4.3
 
-// Declare a variable named 'text' with the stinrg value of 'The score is '.
+// Step 1: Declare a variable named 'text' with the string value of 'The score is '.
 // Write your code below
 
 
-// Declare another variable named 'score' with the value 100.
+// Step 2: Declare another variable named 'score' with the value 100.
 // Write your code below
 
 
-// Declare another variable named 'message' and assign it the value of the formula: text + score
+// Step 3: Declare another variable named 'message' and assign it the value of the formula: text + score.
 // Write your code below
 
 

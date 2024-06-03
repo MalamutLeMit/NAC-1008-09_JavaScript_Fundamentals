@@ -1,10 +1,10 @@
 // Exercise 1.1.5
 
-// Declare a 'let' variable named 'smartphone'
+// Step 1: Declare a let variable named 'smartphone'
 // Write your code below
 
 
-// In the if statement, assign a value based on some condition.
+// Step 2: In the if statement, assign a value based on some condition.
         // The first value of 'smartphone' should be 'iPhone' 
         // and the second value of 'smartphone' should be 'Android'.
 if (Math.random() > 0.5) {

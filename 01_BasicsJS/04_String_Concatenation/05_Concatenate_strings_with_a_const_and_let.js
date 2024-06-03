@@ -1,22 +1,22 @@
 // Exercise 1.4.5
 
-// Declare a 'let' variable named 'greeting', don't assign it any value.
+// Step 1: Declare a 'let' variable named 'greeting', don't assign it any value.
 // Write your code below
 
 
-// Declare a 'const' variable named 'good' and assign it the value 'Good '.
+// Step 2: Declare a 'const' variable named 'good' and assign it the value 'Good '.
 // Write your code below
 
 
-// Declare a 'const' variable named 'firstName' and assign your name as the value. example: 'Alice'.
+// Step 3: Declare a 'const' variable named 'firstName' and assign your name as the value.
 // Write your code below
 
 
-// Declare a 'let' variable named 'currentTime' and assign it the value of the function: new Date().getHours().
+// Step 4: Declare a 'let' variable named 'currentTime' and assign it the value of the function: new Date().getHours().
 // Write your code below
 
 
-// Declare another 'let' variable named 'timeOfDay'.
+// Step 5: Declare another 'let' variable named 'timeOfDay'.
 // Write your code below
 
 
@@ -30,7 +30,7 @@ if (currentTime < 12) {
 }
 
 
-// Update the value 'greeting' with the value of the formula: greeting + timeOfDay + ', ' + timeOfDay
+// Step 6: Update the value 'greeting' with the value of the formula: good + timeOfDay + ', ' + firstName
 // Write your code below
 
 

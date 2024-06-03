@@ -1,10 +1,10 @@
 // Exercise 1.9.2
 
-// Declare two variables, 'hasCoffee' with the value 'false' and 'isTired' with the value 'true'.
+// Step 1: Declare two variables, 'hasCoffee' with the value 'false' and 'isTired' with the value 'true'.
 // Write your code below
 
 
-// Declare a variable named 'needsBreak' and 
+// Step 2: Declare a variable named 'needsBreak' and 
     // use the logical OR operator '||' to check if '!hasCoffee' or 'isTired' is true.
 // Write your code below
 

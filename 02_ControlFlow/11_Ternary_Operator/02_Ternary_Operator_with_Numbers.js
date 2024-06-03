@@ -1,10 +1,14 @@
 // Exercise 2.11.2
-// Declare a variable 'temperature' with the value 28.
-// Use the ternary operator to set a variable 'weather' to 'Hot' if the temperature is greater than or equal to 30 and 'Warm' otherwise.
 
-// Your code here
-let variableName1 = numericValue
-let variableName2 = temperature >= 30 ? 'Hot' : 'Warm';
+// Declare a variable 'temperature' with the value 28.
+// Write your code below
+
+
+// Use the ternary operator to set a variable 'weather' to 
+    // 'Hot' if the temperature is greater than or equal to 30 
+    // and 'Warm' otherwise.
+// Write your code below
+
 
 console.log(weather);
 // Expected Output: Warm

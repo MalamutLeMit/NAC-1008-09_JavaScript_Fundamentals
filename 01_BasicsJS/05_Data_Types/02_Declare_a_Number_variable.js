@@ -1,6 +1,6 @@
 // Exercise 1.5.2
 
-// Declare a variable named 'numApples' and assign it the value 5.
+// Step 1: Declare a variable named 'numApples' and assign it the value 5.
 // Write your code below
 
 
@@ -10,6 +10,8 @@ numApples === 5
     ? console.log(`I have ${numApples} apples in my bag.`)
     : console.log(`I think i have ${numApples} apples in my bag.`);
 
+
+    
 // Expected Output: I have 5 apples in my bag.
 
 

@@ -1,10 +1,10 @@
 // Exercise 1.7.5
 
-// Declare two variables, 'dividend' with the value 27 and 'divisor' with the value 4.
+// Step 1: Declare two variables, 'dividend' with the value 27 and 'divisor' with the value 4.
 // Write your code below
 
 
-// Declare a variable named 'remainder' and find the remainder when 'dividend' is divided by 'divisor'.
+// Step 2: Declare a variable named 'remainder' and find the remainder when 'dividend' is divided by 'divisor'.
 // Write your code below
 
 

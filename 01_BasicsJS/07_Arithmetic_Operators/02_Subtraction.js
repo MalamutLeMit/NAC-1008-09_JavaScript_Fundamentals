@@ -1,10 +1,10 @@
 // Exercise 1.7.2
 
-// Declare two variables, 'numA' with the value 20 and 'numB' with the value 8.
+// Step 1: Declare two variables, 'numA' with the value 20 and 'numB' with the value 8.
 // Write your code below
 
 
-// Declare a variable named 'difference' that equal the difference of 'numA' and 'numB'.
+// Step 2: Declare a variable named 'difference' that equals the difference of 'numA' and 'numB'.
     // Hint: 'You can subtract numbers with the '-' operator.'
 // Write your code below
 

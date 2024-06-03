@@ -1,24 +1,45 @@
-// Exercise 1.14.1
-// Declare a variable 'dayOfWeek' with the value 'Wednesday'.
-// Use a switch statement to log different messages based on the day of the week.
+// Exercise 2.14.1
 
-// Your code here
-let variableName = 'stringValue';
+// Declare a variable 'dayNumber' with the function value 'new Date().getDay()'.
+// Write your code below
 
-switch (dayOfWeek) {
-  case 'Monday':
-    console.log('It\'s the start of the week.');
+
+// Don't change the code declaration below
+let dayName = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"][dayNumber];
+console.log(`Today it is ${dayName}`)
+
+
+// Use a switch statement on the value of 'dayNumber' to
+  // console.log(`It's the start of the week`) if it is 'Mondday',
+  // console.log(`It's the middle of the week`) if it is Tuesday,
+  // console.log(`It's the middle of the week`) if it is Wednesday,
+  // console.log(`It's the middle of the week`) if it is Thursday,
+  // console.log(`It's almost the weekend`) if it is Friday,
+  // console.log(`It's the weekend`) if it is Saturday,
+  // console.log(`It's the weekend`) if it is Sunday,
+  // and console.log(`Invalid day`) otherwise (default).
+// Write your code below
+switch () {
+  case "":
     break;
-  case 'Wednesday':
-    console.log('It\'s the middle of the week.');
+  case "":
     break;
-  case 'Friday':
-    console.log('It\'s almost the weekend.');
+  case "":
+    break;
+  case "":
+    break;
+  case "":
+    break;
+  case "":
+    break;
+  case "":
     break;
   default:
-    console.log('It\'s a regular day.');
 }
-// Expected Output: It's the middle of the week.
+
+
+
+// exampple of Expected Output: It's the middle of the week.
 
 
 

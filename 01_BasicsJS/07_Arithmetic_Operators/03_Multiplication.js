@@ -1,10 +1,10 @@
 // Exercise 1.7.3
 
-// Declare two variables, 'numA' with the value 5 and 'numB' with the value 6.
+// Step 1: Declare two variables, 'numA' with the value 5 and 'numB' with the value 6.
 // Write your code below
 
 
-// Declare a variable named 'result' that equal the product of 'numA' and 'numB'.
+// Step 2: Declare a variable named 'result' that equals the product of 'numA' and 'numB'.
     // Hint: 'You can multiply numbers with the '*' operator.'
 // Write your code below
 

@@ -1,10 +1,14 @@
 // Exercise 2.11.4
-// Declare a variable 'userType' with the value 'admin'.
-// Use the ternary operator to set a variable 'isAdmin' to true if the user type is 'admin' and false otherwise.
 
-// Your code here
-let variableName1 = 'stringValue'
-let variableName2 = userType === 'admin' ? true : false;
+// Declare a variable 'userType' with the value 'admin'.
+// Write your code below
+
+
+// Use the ternary operator to set a variable 'isAdmin' to 
+    // true if the user type is 'admin' 
+    // and false otherwise.
+// Write your code below
+
 
 console.log(isAdmin);
 // Expected Output: true

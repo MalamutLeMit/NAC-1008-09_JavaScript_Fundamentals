@@ -1,10 +1,10 @@
 // Exercise 1.8.5
 
-// Declare two variables, 'quantityA' with the value 7 and 'quantityB' with the value 12.
+// Step 1: Declare two variables, 'quantityA' with the value 7 and 'quantityB' with the value 12.
 // Write your code below
 
 
-// Declare a variable named 'isLessThan' and 
+// Step 2: Declare a variable named 'isLessThan' and 
     // use the less than operator '<' to check if 'quantityA' is less than 'quantityB'.
 // Write your code below
 

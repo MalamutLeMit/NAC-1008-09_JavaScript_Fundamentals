@@ -1,10 +1,10 @@
 // Exercise 1.8.6
 
-// Declare two variables, 'priceA' with the value 25 and 'priceB' with the value 25.
+// Step 1: Declare two variables, 'priceA' with the value 25 and 'priceB' with the value 25.
 // Write your code below
 
 
-// Declare a variable named 'isGreaterOrEqual' and 
+// Step 2: Declare a variable named 'isGreaterOrEqual' and 
     // use the greater than or equal to operator '>=' to check if 'priceA' is greater than or equal to 'priceB'.
 // Write your code below
 

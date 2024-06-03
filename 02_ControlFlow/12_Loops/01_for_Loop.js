@@ -1,10 +1,14 @@
 // Exercise 2.12.1
-// Use a for loop to iterate a count from 0 to 4 and log each iteration.
 
-// Your code here
-for (let variableName = 0; variableName < 5; variableName++) {
+// Use a for loop to iterate a variable name 'count' from 0 to 4 and log each iteration.
+// Hint: for (let x = 0; x < 5; x++) {}
+// Write your code below
+for () {
   console.log('Iteration ' + count);
 }
+
+
+
 // Expected Output:
 // Iteration 0
 // Iteration 1
@@ -16,5 +20,4 @@ for (let variableName = 0; variableName < 5; variableName++) {
 
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
-
 // node 02_ControlFlow/12_Loops/01_for_Loop.js

@@ -1,14 +1,14 @@
 // Exercise 1.2.3
 
-// Declare a `const` variable named 'PI' and assign it the value 3.14159.
+// Step 1: Declare a const variable named 'PI' and assign it the value 3.14159.
 // Write your code below
 
 
-// Declare a `const` variable named 'radius' and assign it the value 5.
+// Step 2: Declare a const variable named 'radius' and assign it the value 5.
 // Write your code below
 
 
-// Declare a `const` variable named 'area' and assign it the value of the formula: PI * (radius * radius)
+// Step 3: Declare a const variable named 'area' and assign it the value of the formula: PI * (radius * radius).
 // Write your code below
 
 

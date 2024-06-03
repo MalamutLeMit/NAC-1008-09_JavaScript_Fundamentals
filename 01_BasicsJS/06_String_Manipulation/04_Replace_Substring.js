@@ -1,10 +1,10 @@
 // Exercise 1.6.4
 
-// Declare a variable named 'helloW' with the value 'Hello, World!'.
+// Step 1: Declare a variable named 'helloW' with the value 'Hello, World!'.
 // Write your code below
 
 
-// Declare a variable named 'helloU' and replace the substring 'World' from the 'helloW' variable.
+// Step 2: Declare a variable named 'helloU' and replace the substring 'World' with 'Universe' from the 'helloW' variable.
     // Hint: Use the '.replace()' method with a first parameter of 'World' and a second parameter of 'Universe'.
 // Write your code below
 

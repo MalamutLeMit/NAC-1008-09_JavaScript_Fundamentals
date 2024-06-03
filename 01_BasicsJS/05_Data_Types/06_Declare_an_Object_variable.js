@@ -1,6 +1,6 @@
 // Exercise 1.5.6
 
-// Declare an object named 'person' with properties 'firstname', 'age', and 'isActive'.
+// Step 1: Declare an object named 'person' with properties 'firstname', 'age', and 'isActive'.
   // Assign values to these properties: 'John', 30, and 'true'.
   // Remember, an object is between curly braces.
 // Write your code below

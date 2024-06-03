@@ -1,14 +1,14 @@
 // Exercise 1.2.4
 
-// Declare a variable named 'quantity' with the value 5.
+// Step 1: Declare a variable named 'quantity' with the value 5.
 // Write your code below
 
 
-// Declare another variable named 'pricePerUnit' with the value 25.
+// Step 2: Declare another variable named 'pricePerUnit' with the value 25.
 // Write your code below
 
 
-// Declare another variable named `totalPrice` and assign it the value of the formula: quantity * pricePerUnit
+// Step 3: Declare another variable named 'totalPrice' and assign it the value of the formula: quantity * pricePerUnit.
 // Write your code below
 
 

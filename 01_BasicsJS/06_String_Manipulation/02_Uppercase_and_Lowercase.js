@@ -1,14 +1,14 @@
 // Exercise 1.6.2
 
-// Declare a variable named 'mixedCase' with a string value of 'JavaScript is Fun!'.
+// Step 1: Declare a variable named 'mixedCase' with a string value of 'JavaScript is Fun!'.
 // Write your code below
 
 
-// Declare a variable named 'upperCaseText' and assign it the value of 'mixedCase' converted to uppercase by using the '.toUpperCase()' method.
+// Step 2: Declare a variable named 'upperCaseText' and assign it the value of 'mixedCase' converted to uppercase by using the '.toUpperCase()' method.
 // Write your code below
 
 
-// Declare a variable named 'lowerCaseText' and assign it the value of 'mixedCase' converted to lowercase by using the '.toLowerCase()' method.
+// Step 3: Declare a variable named 'lowerCaseText' and assign it the value of 'mixedCase' converted to lowercase by using the '.toLowerCase()' method.
 // Write your code below
 
 

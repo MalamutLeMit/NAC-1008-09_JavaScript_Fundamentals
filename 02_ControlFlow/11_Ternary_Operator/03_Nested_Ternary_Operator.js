@@ -1,12 +1,18 @@
 // Exercise 2.11.3
-// Declare two variables, 'isWeekend' with the value 'false' and 'time' with the value 'morning'.
-// Use nested ternary operators to set a variable 'greeting' to 'Enjoy your weekend' if it is the weekend,
-// and if not, set it to 'Good morning' if it is morning and 'Good day' otherwise.
 
-// Your code here
-let variableName1 = booleanValue
-let variableName2 = 'stringValue'
-let variableName3 = isWeekend ? 'Enjoy your weekend' : time === 'morning' ? 'Good morning' : 'Good day';
+// Declare two variables, 'isWeekend' with the value 'false' and 'time' with the value 'morning'.
+// Write your code below
+
+
+// Use nested ternary operators to set a variable 'greeting' to 
+    // 'Enjoy your weekend' if it is the weekend,
+    // and if not, 
+        // set it to 'Good morning' if it is morning 
+        // and 'Good day' otherwise.
+    // Hint: Ternary operators are similar to if-else statements but written in a shorter way: 
+    // variable = (condition) ? value1 if true : (new condition) ? value2 if true : value3 if false
+// Write your code below
+
 
 console.log(greeting);
 // Expected Output: Good morning

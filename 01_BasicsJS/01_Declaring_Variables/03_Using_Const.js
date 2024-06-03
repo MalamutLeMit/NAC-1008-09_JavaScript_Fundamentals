@@ -1,7 +1,7 @@
 // Exercise 1.1.3
 
-// Declare a `const` variable named 'daysInMonth' 
-    // and assign it the value 30.
+// Step 1: Declare a const variable named 'daysInMonth'
+// and assign it the value 30.
 // Write your code below
 
 
@@ -10,7 +10,7 @@ console.log(`There is ${daysInMonth} days in a month.`);
 // Expected Output: There is 30 days in a month.
 
 
-// Update the value of 'daysInMonth' to 25.
+// Step 2: Attempt to update the value of 'daysInMonth' to 25.
 // Write your code below
 
 

@@ -1,6 +1,6 @@
 // Exercise 1.5.3
 
-// Declare a variable named 'isSunny' and assign it the value 'true'.
+// Step 1: Declare a variable named 'isSunny' and assign it the value 'true'.
 // Write your code below
 
 

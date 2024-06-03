@@ -1,16 +1,16 @@
 // Exercise 1.9.5
 
-// Declare a variable 'isActiveSession' with the value 'false'.
+// Step 1: Declare a variable 'isActiveSession' with the value 'false'.
 // Write your code below
 
 
-// Declare a variable 'accountLevel' with the value 'admin'.
+// Step 2: Declare a variable 'accountLevel' with the value 'admin'.
 // Write your code below
 
 
 // Declare a variable 'hasResourceAccess' and use a logical AND operator '&&' to
-    // determine if the user can access the resource, using short-circuit evaluation.
-    // Hint: Use the 'isActiveSession' and 'accountLevel' === 'admin'.
+// determine if the user can access the resource, using short-circuit evaluation.
+    // Hint: 'x' and 'y' === 'string'.
 // Write your code below
 
 

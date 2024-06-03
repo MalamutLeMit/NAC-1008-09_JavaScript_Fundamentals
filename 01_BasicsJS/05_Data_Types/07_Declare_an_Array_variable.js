@@ -1,6 +1,6 @@
 // Exercise 1.5.7
 
-// Declare an array named 'fruits' with values 'Apple', 'Banana', and 'Orange'.
+// Step 1: Declare an array named 'fruits' with values 'Apple', 'Banana', and 'Orange'.
 // Write your code below
 
 

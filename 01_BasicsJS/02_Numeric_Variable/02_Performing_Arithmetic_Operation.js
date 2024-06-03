@@ -1,10 +1,10 @@
 // Exercise 1.2.2
 
-// Declare two numeric variables, 'numA' with the value 15 and 'numB' with the value 7.
+// Step 1: Declare two numeric variables, 'numA' with the value 15 and 'numB' with the value 7.
 // Write your code below
 
 
-// Perform an addition operation and store the result in a variable named 'sum'.
+// Step 2: Perform an addition operation and store the result in a variable named 'sum'.
 // Write your code below
 
 

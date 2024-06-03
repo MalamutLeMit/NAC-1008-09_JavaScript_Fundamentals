@@ -1,24 +1,31 @@
-// Exercise 1.14.2
-// Declare a variable 'number' with the value 3.
+// Exercise 2.14.2
+
+// Declare a 'let 'variable 'number' with the function value: 'Math.floor(Math.random() * 3) + 1'.
+// Write your code below
+
+
 // Use a switch statement to log different messages based on the numeric value.
-
-// Your code here
-let variableName = numericValue;
-
-switch (number) {
-  case 1:
-    console.log('The number is one.');
+  // if it's 1, console.log(`The number is one.`)
+  // if it's 2, console.log(`The number is two.`)
+  // if it's 3, console.log(`The number is three.`)
+// Write your code below
+switch () {
+  case '':
+    
     break;
-  case 2:
-    console.log('The number is two.');
+  case '':
+    
     break;
-  case 3:
-    console.log('The number is three.');
+  case '':
+    
     break;
   default:
-    console.log('The number is not one, two, or three.');
+
 }
-// Expected Output: The number is three.
+
+
+
+// example of Expected Output: The number is one.
 
 
 

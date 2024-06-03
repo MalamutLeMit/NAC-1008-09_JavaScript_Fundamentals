@@ -1,6 +1,6 @@
 // Exercise 1.2.1
 
-// Declare a numeric variable named 'price' and assign it the value 20
+// Step 1: Declare a numeric variable named 'price' and assign it the value 20
 // Write your code below
 
 

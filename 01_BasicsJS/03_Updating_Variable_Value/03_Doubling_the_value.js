@@ -1,10 +1,10 @@
 // Exercise 1.3.3
 
-// Declare a 'let' variable named 'counter' with the value 8.
+// Step 1: Declare a let variable named 'counter' with the value 8.
 // Write your code below
 
 
-// Then, multiply the value of 'counter' by 2 using the *= operator.
+// Step 2: Multiply the value of 'counter' by 2 using the *= operator.
 // Write your code below
 
 

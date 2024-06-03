@@ -1,14 +1,17 @@
-// Exercise 1.14.5
+// Exercise 2.14.5
+
 // Declare a variable 'animal' with the value 'elephant'.
+// Write your code below
+
+
 // Use a switch statement with only a default case to log a message indicating it's an unknown animal.
-
-// Your code here
-let variableName = 'stringValue';
-
-switch (animal) {
+// Write your code below
+switch () {
   default:
-    console.log('It\'s an unknown animal.');
+    
 }
+
+
 // Expected Output: It's an unknown animal.
 
 

@@ -1,10 +1,10 @@
 // Exercise 1.7.1
 
-// Declare two variables, 'numA' with the value 15 and 'numB' with the value 7.
+// Step 1: Declare two variables, 'numA' with the value 15 and 'numB' with the value 7.
 // Write your code below
 
 
-// Declare a variable named 'sum' that equal the sum of 'numA' and 'numB'.
+// Step 2: Declare a variable named 'sum' that equals the sum of 'numA' and 'numB'.
     // Hint: 'You can add numbers with the '+' operator.'
 // Write your code below
 

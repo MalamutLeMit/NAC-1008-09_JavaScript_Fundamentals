@@ -1,6 +1,6 @@
 // Exercise 1.5.5
 
-// Declare a variable named 'nullVar' and assign it the value 'null'.
+// Step 1: Declare a variable named 'nullVar' and assign it the value 'null'.
 // Write your code below
 
 

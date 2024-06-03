@@ -18,8 +18,7 @@ console.log(`Today it is ${dayName}`)
   // console.log(`It's the weekend`) if it is Saturday,
   // console.log(`It's the weekend`) if it is Sunday,
   // and console.log(`Invalid day`) otherwise (default).
-  // Complete the code below
-
+  // Write your code below
 switch () {
   case "":
     break;
@@ -37,6 +36,9 @@ switch () {
     break;
   default:
 }
+
+
+// Expected Output: Will depend on the value of 'dayNumber'
 
 
 

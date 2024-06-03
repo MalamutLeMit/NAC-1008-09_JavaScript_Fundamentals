@@ -1,21 +1,28 @@
-// Exercise 1.14.3
+// Exercise 2.14.3
+
 // Declare a variable 'fruit' with the value 'apple'.
+// Write your code below
+
+
 // Use a switch statement to log different messages based on the fruit.
-
-// Your code here
-let variableName = 'stringValue';
-
-switch (fruit) {
-  case 'banana':
-    console.log('It\'s a banana.');
+  // if it's a banana, console.log(`It's a banana.`)
+  // if it's an apple or an orange, console.log(`It's an apple or an orange.`)
+  // if it's any other fruit, console.log(`It's a different fruit.`)
+// Write your code below
+switch () {
+  case '':
+    
     break;
-  case 'apple':
-  case 'orange':
-    console.log('It\'s an apple or an orange.');
+  case '':
+  case '':
+    
     break;
   default:
-    console.log('It\'s a different fruit.');
+    
 }
+
+
+
 // Expected Output: It's an apple or an orange.
 
 

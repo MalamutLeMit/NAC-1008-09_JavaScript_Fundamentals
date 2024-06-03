@@ -1,10 +1,10 @@
 // Exercise 1.2.5
 
-// Declare a 'let' variable named 'baseNumber' with the value 5
+// Step 1: Declare a let variable named 'baseNumber' with the value 5.
 // Write your code below
 
 
-// Update the value of 'baseNumber' and assign it the value of the formula: baseNumber * 2
+// Step 2: Update the value of 'baseNumber' and assign it the value of the formula: baseNumber * 2.
 // Write your code below
 
 

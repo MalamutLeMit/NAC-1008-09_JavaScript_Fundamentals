@@ -1,10 +1,10 @@
 // Exercise 1.6.5
 
-// Declare a variable named 'message' with the value 'The quick brown fox jumps over the lazy dog.
+// Step 1: Declare a variable named 'message' with the value 'The quick brown fox jumps over the lazy dog.'.
 // Write your code below
 
 
-// Declare a variable named 'stringLength' and assign it the length of the 'message' variable.
+// Step 2: Declare a variable named 'stringLength' and assign it the length of the 'message' variable.
     // Hint: Use the '.length' property. 
 // Write your code below
 

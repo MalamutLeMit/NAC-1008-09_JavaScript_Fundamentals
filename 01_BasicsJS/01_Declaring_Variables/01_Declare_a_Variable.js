@@ -1,7 +1,7 @@
 // Exercise 1.1.1
 
-// Declare a 'const' variable named 'favoriteFruit' and 
-    // assign it the value that is your favorite fruit, example 'apple'.
+// Declare a const variable named 'favoriteFruit'
+// and assign it the value of your favorite fruit, example 'apple'.
 // Write your code below
 
 

@@ -1,10 +1,10 @@
 // Exercise 1.3.2
 
-// Declare a 'let' variable named 'counter' with the value 20.
+// Step 1: Declare a let variable named 'counter' with the value 20.
 // Write your code below
 
 
-// Then, decrement the value of 'counter' by 5 using the -= operator
+// Step 2: Decrement the value of 'counter' by 5 using the -= operator.
 // Write your code below
 
 

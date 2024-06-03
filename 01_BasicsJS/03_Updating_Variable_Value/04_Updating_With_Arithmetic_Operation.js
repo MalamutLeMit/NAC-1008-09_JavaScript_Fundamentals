@@ -1,14 +1,14 @@
 // Exercise 1.3.4
 
-// Declare a `let` variable named 'currentValue' with the value 15.
+// Step 1: Declare a let variable named 'currentValue' with the value 15.
 // Write your code below
 
 
-// Declare another variable named 'increment' with the value 5.
+// Step 2: Declare another variable named 'increment' with the value 5.
 // Write your code below
 
 
-// Update 'currentValue' by adding the value of 'increment' using the += operator.
+// Step 3: Update 'currentValue' by adding the value of 'increment' using the += operator.
 // Write your code below
 
 

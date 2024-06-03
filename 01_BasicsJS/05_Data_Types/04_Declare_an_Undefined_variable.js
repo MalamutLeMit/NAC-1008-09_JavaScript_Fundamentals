@@ -1,6 +1,6 @@
 // Exercise 1.5.4
 
-// Declare a 'let' variable named 'undefinedVar' without assigning it a value.
+// Step 1: Declare a 'let' variable named 'undefinedVar' without assigning it a value.
 // Write your code below
 
 

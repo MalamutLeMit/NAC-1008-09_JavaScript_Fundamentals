@@ -1,10 +1,10 @@
 // Exercise 1.8.4
 
-// Declare two variables, 'lengthA' with the value 15 and 'lengthB' with the value 10.
+// Step 1: Declare two variables, 'lengthA' with the value 15 and 'lengthB' with the value 10.
 // Write your code below
 
 
-// Declare a variable named 'isGreaterThan' and 
+// Step 2: Declare a variable named 'isGreaterThan' and 
     // use the greater than operator '>' to check if 'lengthA' is greater than 'lengthB'.
 // Write your code below
 

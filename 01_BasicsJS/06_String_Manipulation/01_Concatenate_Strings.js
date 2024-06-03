@@ -1,12 +1,12 @@
 // Exercise 1.6.1
 
-// Declare two variables, 
+// Step 1: Declare two variables,
     // 'firstname' with the value of your firstname
     // 'lastname' with the value of your lastname
 // Write your code below
 
 
-// Concatenate them to create a variable named 'fullName'.
+// Step 2: Concatenate them to create a variable named 'fullName'.
 // Write your code below
 
 

@@ -1,12 +1,19 @@
 // Exercise 2.12.3
-// Use a do-while loop to iterate a count from 0 to 4 and log each iteration.
 
-// Your code here
-let variableName = 0;
+// Declare a variable 'count' with the value 0.
+// Write your code below
+
+
+// Use a do-while loop to iterate a count from 0 to 4 and log each iteration.
+// Hint: do {log; count++} whilte (x<5)
+// Write your code below
 do {
-  console.log('Iteration ' + variableName);
-  count++;
-} while (variableName < 5);
+  console.log('Iteration ' + count);
+  
+} while ();
+
+
+
 // Expected Output:
 // Iteration 0
 // Iteration 1

@@ -1,10 +1,10 @@
 // Exercise 1.3.1
 
-// Declare a 'let' variable named 'counter' and initialize it with the value 10.
+// Step 1: Declare a let variable named 'counter' and initialize it with the value 10.
 // Write your code below
 
 
-// Then, increment the value of 'counter' by 2 using the += operator
+// Step 2: Increment the value of 'counter' by 2 using the += operator.
 // Write your code below
 
 
