@@ -1,8 +1,8 @@
 // Exercise 1.6.1
 
 // Step 1: Declare two variables,
-    // 'firstname' with the value of your firstname
-    // 'lastname' with the value of your lastname
+    // 'firstName' with the value of your firstname
+    // 'lastName' with the value of your lastname
 // Write your code below
 
 
