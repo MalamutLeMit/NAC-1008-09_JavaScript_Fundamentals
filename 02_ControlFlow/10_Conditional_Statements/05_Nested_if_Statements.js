@@ -1,10 +1,10 @@
 // Exercise 2.10.5
 
-// Declare two variables, 'isWeekend' with the value 'false' and 'time' with the value 'morning'.
+// Step 1: Declare two variables, 'isWeekend' with the value 'false' and 'time' with the value 'morning'.
 // Write your code below
 
 
-// Use nested if statements to check if it is the weekend, and if so, console.log('Enjoy your weekend'),
+// Step 2: Use nested if statements to check if it is the weekend and if so, console.log('Enjoy your weekend'),
   // otherwise, check if it is morning and log 'Good morning'.
 // Write your code below
 if () {

@@ -1,6 +1,6 @@
 // Exercise 3.15.1
 
-// Declare a function named 'addNumbers' that takes two parameters, 'num1' and 'num2', and returns their sum.
+// Step 1: Declare a function named 'addNumbers' that takes two parameters, 'num1' and 'num2', and returns their sum.
   // Hint: function functionName(x, y) { return ...; }
 // Write your code below
 

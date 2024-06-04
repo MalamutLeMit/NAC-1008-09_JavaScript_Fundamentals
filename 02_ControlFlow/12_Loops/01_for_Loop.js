@@ -1,6 +1,6 @@
 // Exercise 2.12.1
 
-// Use a for loop to iterate a variable name 'count' from 0 to 4 and log each iteration.
+// Step 1: Use a for loop to iterate a variable name 'count' from 0 to 4 and log each iteration.
 // Hint: for (let x = 0; x < 5; x++) {}
 // Write your code below
 for () {

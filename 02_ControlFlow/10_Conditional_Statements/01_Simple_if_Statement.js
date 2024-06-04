@@ -1,13 +1,13 @@
 // Exercise 2.10.1
 
-// Declare a variable 'isRaining' with the value 'true'.
+// Step 1: Declare a variable 'isRaining' with the value 'true'.
 // Write your code below
 
 
-// Use an if statement to check if it is raining, and if so, console.log('Take an umbrella').
+// Step 2: Use an if statement to check if it is raining, and if so, console.log(`Take an umbrella`).
 // Write your code below
 if () {
-
+    
 }
 
 

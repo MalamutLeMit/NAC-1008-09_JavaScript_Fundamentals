@@ -1,10 +1,10 @@
 // Exercise 2.11.3
 
-// Declare two variables, 'isWeekend' with the value 'false' and 'time' with the value 'morning'.
+// Step 1: Declare two variables, 'isWeekend' with the value 'false' and 'time' with the value 'morning'.
 // Write your code below
 
 
-// Use nested ternary operators to set a variable 'greeting' to 
+// Step 2: Use nested ternary operators to set a variable 'greeting' to
     // 'Enjoy your weekend' if it is the weekend,
     // and if not, 
         // set it to 'Good morning' if it is morning 

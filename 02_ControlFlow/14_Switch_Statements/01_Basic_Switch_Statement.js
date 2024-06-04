@@ -1,6 +1,6 @@
 // Exercise 2.14.1
 
-// Declare a variable 'dayNumber' with the function value 'new Date().getDay()'.
+// Step 1: Declare a variable 'dayNumber' with the function value 'new Date().getDay()'.
 // Write your code below
 
 
@@ -9,7 +9,7 @@ let dayName = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday",
 console.log(`Today it is ${dayName}`)
 
 
-// Use a switch statement on the value of 'dayNumber' to
+// Step 2: Use a switch statement on the value of 'dayNumber' to
   // console.log(`It's the start of the week`) if it is 'Mondday',
   // console.log(`It's the middle of the week`) if it is Tuesday,
   // console.log(`It's the middle of the week`) if it is Wednesday,

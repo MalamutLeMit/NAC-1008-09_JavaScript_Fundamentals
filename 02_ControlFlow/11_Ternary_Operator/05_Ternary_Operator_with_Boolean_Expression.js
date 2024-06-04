@@ -1,10 +1,10 @@
 // Exercise 2.11.5
 
-// Declare two variables, 'num1' with the value 15 and 'num2' with the value 20.
+// Step 1: Declare two variables, 'num1' with the value 15 and 'num2' with the value 20.
 // Write your code below
 
 
-// Use the ternary operator to set a variable 'isSumGreaterThan25' to 
+// Step 2: Use the ternary operator to set a variable 'isSumGreaterThan25' to 
     // true if the sum of 'num1' and 'num2' is greater than 25 
     // and false otherwise.
 // Write your code below

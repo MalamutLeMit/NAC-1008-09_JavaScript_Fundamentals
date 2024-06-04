@@ -1,10 +1,10 @@
 // Exercise 2.12.2
 
-// Declare a variable 'count' with the value 0.
+// Step 1: Declare a variable 'count' with the value 0.
 // Write your code below
 
 
-// Use a while loop to iterate 'count' from 0 to 4 and log each iteration.
+// Step 2: Use a while loop to iterate 'count' from 0 to 4 and log each iteration.
 // Hint: white (x<5) {log; count++;}
 // Write your code below
 while () {

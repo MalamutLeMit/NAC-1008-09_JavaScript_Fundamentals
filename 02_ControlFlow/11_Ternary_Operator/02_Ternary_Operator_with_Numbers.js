@@ -1,12 +1,12 @@
 // Exercise 2.11.2
 
-// Declare a variable 'temperature' with the value 28.
+// Step 1: Declare a variable 'temperature' with the value 28.
 // Write your code below
 
 
-// Use the ternary operator to set a variable 'weather' to 
-    // 'Hot' if the temperature is greater than or equal to 30 
-    // and 'Warm' otherwise.
+// Step 2: Use the ternary operator to set a variable 'weather' to a string,
+    // 'Hot' if the temperature is greater than or equal to 30,
+    // 'Warm' otherwise.
 // Write your code below
 
 

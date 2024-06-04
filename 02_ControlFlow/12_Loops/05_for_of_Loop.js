@@ -1,10 +1,10 @@
 // Exercise 2.12.5
 
-// Declare an array 'numbers' with values 1, 2, 3, 4, 5.
+// Step 1: Declare an array 'numbers' with values 1, 2, 3, 4, 5.
 // Write your code below
 
 
-// Use a for...of loop to log each value.
+// Step 2: Use a for...of loop to log each value.
 // Hint: for (value of array) {log}
 for () {
   console.log('Value: ' + valueName);

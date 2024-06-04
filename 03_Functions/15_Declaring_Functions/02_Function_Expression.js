@@ -1,6 +1,6 @@
 // Exercise 3.15.2
 
-// Declare a function expression named 'multiplyNumbers' that takes two parameters, 'num1' and 'num2', and returns their product.
+// Step 1: Declare a function expression named 'multiplyNumbers' that takes two parameters, 'num1' and 'num2', and returns their product.
   // Hint: function functionName(x, y) { return ...; }
 // Write your code below
 

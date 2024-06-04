@@ -1,8 +1,8 @@
 // Exercise 3.15.3
 
-// Declare an arrow function named 'greetPerson' that takes a parameter 'first_name' and 'last_name' and returns a greeting message.
-  // Hint1: The return should be a concatenation of the two parameters.
-  // Hint2: const functionName = (x, y) => { return ...; }
+// Step 1: Declare an arrow function named 'greetPerson' that takes a parameter 'first_name' and 'last_name' and returns a greeting message.
+  // Hint 1: The return should be a concatenation of the two parameters.
+  // Hint 2: const functionName = (x, y) => { return ...; }
 // Write your code below
 
 

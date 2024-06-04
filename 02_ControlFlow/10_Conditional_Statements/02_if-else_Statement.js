@@ -1,10 +1,10 @@
 // Exercise 2.10.2
 
-// Declare a variable 'morning' with the value 'true'.
+// Step 1: Declare a variable 'morning' with the value 'true'.
 // Write your code below
 
 
-// Use an if-else statement to check if morning is true, and if so, console.log('Good morning'), otherwise console.log('Good day').
+// Step 2: Use an if-else statement to check if morning is true, and if so, log 'Good morning', otherwise console.log('Good day').
 // Write your code below
 if () {
 
