@@ -1,7 +1,7 @@
 // Exercise 3.15.2
 
-// Step 1: Declare a function expression named 'multiplyNumbers' that takes two parameters, 'num1' and 'num2', and returns their product.
-  // Hint: function functionName(x, y) { return ...; }
+// Step 1: Declare a function expression named 'multiplyNumbers' that takes two parameters, 'x' and 'y', and returns their product.
+  // Hint: const z = functionName(x, y) { return ...; }
 // Write your code below
 
 
