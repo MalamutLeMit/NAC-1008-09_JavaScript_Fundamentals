@@ -1,0 +1,128 @@
+{
+  "name": "javascript_exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+
+    "test:1": "jest __tests__/EXERCISES/01_BasicsJS/**/*.test.js",
+
+    "test:1.1": "jest __tests__/EXERCISES/01_BasicsJS/01_Declaring_Variables/*.test.js",
+    "test:1.1.1": "jest __tests__/EXERCISES/01_BasicsJS/01_Declaring_Variables/01_Declare_a_Variable.test.js",
+    "test:1.1.2": "jest __tests__/EXERCISES/01_BasicsJS/01_Declaring_Variables/02_Changing_Variable_Value.test.js",
+    "test:1.1.3": "jest __tests__/EXERCISES/01_BasicsJS/01_Declaring_Variables/03_Using_Const.test.js",
+    "test:1.1.4": "jest __tests__/EXERCISES/01_BasicsJS/01_Declaring_Variables/04_Declaring_Multiple_Variables.test.js",
+    "test:1.1.5": "jest __tests__/EXERCISES/01_BasicsJS/01_Declaring_Variables/05_Dynamic_Variable_Declaration.test.js",
+
+    "test:1.2": "jest __tests__/EXERCISES/01_BasicsJS/02_Numeric_Variable/*.test.js",
+    "test:1.2.1": "jest __tests__/EXERCISES/01_BasicsJS/02_Numeric_Variable/01_Declare_a_Numeric_Variable.test.js",
+    "test:1.2.2": "jest __tests__/EXERCISES/01_BasicsJS/02_Numeric_Variable/02_Performing_Arithmetic_Operation.test.js",
+    "test:1.2.3": "jest __tests__/EXERCISES/01_BasicsJS/02_Numeric_Variable/03_Using_const_for_mathematical_constant.test.js",
+    "test:1.2.4": "jest __tests__/EXERCISES/01_BasicsJS/02_Numeric_Variable/04_Declaring_and_multiplying.test.js",
+    "test:1.2.5": "jest __tests__/EXERCISES/01_BasicsJS/02_Numeric_Variable/05_Dynamic_numeric_variable_declaration.test.js",
+
+    "test:1.3": "jest __tests__/EXERCISES/01_BasicsJS/03_Updating_Variable_Value/*.test.js",
+    "test:1.3.1": "jest __tests__/EXERCISES/01_BasicsJS/03_Updating_Variable_Value/01_Incrementing_a_Variable.test.js",
+    "test:1.3.2": "jest __tests__/EXERCISES/01_BasicsJS/03_Updating_Variable_Value/02_Decrementing_a_Variable.test.js",
+    "test:1.3.3": "jest __tests__/EXERCISES/01_BasicsJS/03_Updating_Variable_Value/03_Doubling_the_value.test.js",
+    "test:1.3.4": "jest __tests__/EXERCISES/01_BasicsJS/03_Updating_Variable_Value/04_Updating_With_Arithmetic_Operation.test.js",
+    "test:1.3.5": "jest __tests__/EXERCISES/01_BasicsJS/03_Updating_Variable_Value/05_Updating_with_a_compound_assignment.test.js",
+
+    "test:1.4": "jest __tests__/EXERCISES/01_BasicsJS/04_String_Concatenation/*.test.js",
+    "test:1.4.1": "jest __tests__/EXERCISES/01_BasicsJS/04_String_Concatenation/01_Combine_first_and_last_name.test.js",
+    "test:1.4.2": "jest __tests__/EXERCISES/01_BasicsJS/04_String_Concatenation/02_Concatenate_a_greeting.test.js",
+    "test:1.4.3": "jest __tests__/EXERCISES/01_BasicsJS/04_String_Concatenation/03_Combine_strings_with_a_number.test.js",
+    "test:1.4.4": "jest __tests__/EXERCISES/01_BasicsJS/04_String_Concatenation/04_Concatenate_strings_with_an_expression.test.js",
+    "test:1.4.5": "jest __tests__/EXERCISES/01_BasicsJS/04_String_Concatenation/05_Concatenate_strings_with_a_const_and_let.test.js",
+
+    "test:1.5": "jest __tests__/EXERCISES/01_BasicsJS/05_Data_Types/*.test.js",
+    "test:1.5.1": "jest __tests__/EXERCISES/01_BasicsJS/05_Data_Types/01_Declare_a_String_variable.test.js",
+    "test:1.5.2": "jest __tests__/EXERCISES/01_BasicsJS/05_Data_Types/02_Declare_a_Number_variable.test.js",
+    "test:1.5.3": "jest __tests__/EXERCISES/01_BasicsJS/05_Data_Types/03_Declare_a_Boolean_variable.test.js",
+    "test:1.5.4": "jest __tests__/EXERCISES/01_BasicsJS/05_Data_Types/04_Declare_an_Undefined_variable.test.js",
+    "test:1.5.5": "jest __tests__/EXERCISES/01_BasicsJS/05_Data_Types/05_Declare_a_Null_variable.test.js",
+    "test:1.5.6": "jest __tests__/EXERCISES/01_BasicsJS/05_Data_Types/06_Declare_an_Object_variable.test.js",
+    "test:1.5.7": "jest __tests__/EXERCISES/01_BasicsJS/05_Data_Types/07_Declare_an_Array_variable.test.js",
+
+    "test:1.6": "jest __tests__/EXERCISES/01_BasicsJS/06_String_Manipulation/*.test.js",
+    "test:1.6.1": "jest __tests__/EXERCISES/01_BasicsJS/06_String_Manipulation/01_Concatenate_Strings.test.js",
+    "test:1.6.2": "jest __tests__/EXERCISES/01_BasicsJS/06_String_Manipulation/02_Uppercase_and_Lowercase.test.js",
+    "test:1.6.3": "jest __tests__/EXERCISES/01_BasicsJS/06_String_Manipulation/03_Extract_Substring.test.js",
+    "test:1.6.4": "jest __tests__/EXERCISES/01_BasicsJS/06_String_Manipulation/04_Replace_Substring.test.js",
+    "test:1.6.5": "jest __tests__/EXERCISES/01_BasicsJS/06_String_Manipulation/05_String_Length.test.js",
+
+    "test:1.7": "jest __tests__/EXERCISES/01_BasicsJS/07_Arithmetic_Operators/*.test.js",
+    "test:1.7.1": "jest __tests__/EXERCISES/01_BasicsJS/07_Arithmetic_Operators/01_Addition.test.js",
+    "test:1.7.2": "jest __tests__/EXERCISES/01_BasicsJS/07_Arithmetic_Operators/02_Subtraction.test.js",
+    "test:1.7.3": "jest __tests__/EXERCISES/01_BasicsJS/07_Arithmetic_Operators/03_Multiplication.test.js",
+    "test:1.7.4": "jest __tests__/EXERCISES/01_BasicsJS/07_Arithmetic_Operators/04_Division.test.js",
+    "test:1.7.5": "jest __tests__/EXERCISES/01_BasicsJS/07_Arithmetic_Operators/05_Modulus.test.js",
+    
+    "test:1.8": "jest __tests__/EXERCISES/01_BasicsJS/08_Comparison_Operators/*.test.js",
+    "test:1.8.1": "jest __tests__/EXERCISES/01_BasicsJS/08_Comparison_Operators/01_Equal_Operator.test.js",
+    "test:1.8.2": "jest __tests__/EXERCISES/01_BasicsJS/08_Comparison_Operators/02_Not_Equal_Operator.test.js",
+    "test:1.8.3": "jest __tests__/EXERCISES/01_BasicsJS/08_Comparison_Operators/03_Strict_Equal_Operator.test.js",
+    "test:1.8.4": "jest __tests__/EXERCISES/01_BasicsJS/08_Comparison_Operators/04_Greater_Than_Operator.test.js",
+    "test:1.8.5": "jest __tests__/EXERCISES/01_BasicsJS/08_Comparison_Operators/05_Less_Than_Operator.test.js",
+    "test:1.8.6": "jest __tests__/EXERCISES/01_BasicsJS/08_Comparison_Operators/06_Greater_Than_or_Equal_To_Operator.test.js",
+    "test:1.8.7": "jest __tests__/EXERCISES/01_BasicsJS/08_Comparison_Operators/07_Less_Than_or_Equal_To_Operator.test.js",
+
+    "test:1.9": "jest __tests__/EXERCISES/01_BasicsJS/09_Logical_Operators/*.test.js",
+    "test:1.9.1": "jest __tests__/EXERCISES/01_BasicsJS/09_Logical_Operators/01_Logical_AND.test.js",
+    "test:1.9.2": "jest __tests__/EXERCISES/01_BasicsJS/09_Logical_Operators/02_Logical_OR.test.js",
+    "test:1.9.3": "jest __tests__/EXERCISES/01_BasicsJS/09_Logical_Operators/03_Logical_NOT.test.js",
+    "test:1.9.4": "jest __tests__/EXERCISES/01_BasicsJS/09_Logical_Operators/04_Complex_Logical_Operation.test.js",
+    "test:1.9.5": "jest __tests__/EXERCISES/01_BasicsJS/09_Logical_Operators/05_Short-Circuit_Evaluation.test.js",
+
+    "test:2": "jest __tests__/EXERCISES/02_ControlFlow/**/*.test.js",
+
+    "test:2.10": "jest __tests__/EXERCISES/02_ControlFlow/10_Conditional_Statements/*.test.js",
+    "test:2.10.1": "jest __tests__/EXERCISES/02_ControlFlow/10_Conditional_Statements/01_Simple_if_Statement.test.js",
+    "test:2.10.2": "jest __tests__/EXERCISES/02_ControlFlow/10_Conditional_Statements/02_if-else_Statement.test.js",
+    "test:2.10.3": "jest __tests__/EXERCISES/02_ControlFlow/10_Conditional_Statements/03_if-else_if-else_Statement.test.js",
+    "test:2.10.4": "jest __tests__/EXERCISES/02_ControlFlow/10_Conditional_Statements/04_Switch_Statement.test.js",
+    "test:2.10.5": "jest __tests__/EXERCISES/02_ControlFlow/10_Conditional_Statements/05_Nested_if_Statements.test.js",
+
+    "test:2.11": "jest __tests__/EXERCISES/02_ControlFlow/11_Ternary_Operator/*.test.js",
+    "test:2.11.1": "jest __tests__/EXERCISES/02_ControlFlow/11_Ternary_Operator/01_Basic_Ternary_Operator.test.js",
+    "test:2.11.2": "jest __tests__/EXERCISES/02_ControlFlow/11_Ternary_Operator/02_Ternary_Operator_with_Numbers.test.js",
+    "test:2.11.3": "jest __tests__/EXERCISES/02_ControlFlow/11_Ternary_Operator/03_Nested_Ternary_Operator.test.js",
+    "test:2.11.4": "jest __tests__/EXERCISES/02_ControlFlow/11_Ternary_Operator/04_Ternary_Operator_with_Strings.test.js",
+    "test:2.11.5": "jest __tests__/EXERCISES/02_ControlFlow/11_Ternary_Operator/05_Ternary_Operator_with_Boolean_Expression.test.js",
+
+    "test:2.12": "jest __tests__/EXERCISES/02_ControlFlow/12_Loops/*.test.js",
+    "test:2.12.1": "jest __tests__/EXERCISES/02_ControlFlow/12_Loops/01_for_Loop.test.js",
+    "test:2.12.2": "jest __tests__/EXERCISES/02_ControlFlow/12_Loops/02_while_Loop.test.js",
+    "test:2.12.3": "jest __tests__/EXERCISES/02_ControlFlow/12_Loops/03_do-while_Loop.test.js",
+    "test:2.12.4": "jest __tests__/EXERCISES/02_ControlFlow/12_Loops/04_for_in_Loop.test.js",
+    "test:2.12.5": "jest __tests__/EXERCISES/02_ControlFlow/12_Loops/05_for_of_Loop.test.js",
+
+    "test:2.13": "jest __tests__/EXERCISES/02_ControlFlow/13_Loop_Control_Statements/*.test.js",
+    "test:2.13.1": "jest __tests__/EXERCISES/02_ControlFlow/13_Loop_Control_Statements/01_break_Statement.test.js",
+    "test:2.13.2": "jest __tests__/EXERCISES/02_ControlFlow/13_Loop_Control_Statements/02_continue_Statement.test.js",
+    "test:2.13.3": "jest __tests__/EXERCISES/02_ControlFlow/13_Loop_Control_Statements/03_Nested_Loop_with_break.test.js",
+    "test:2.13.4": "jest __tests__/EXERCISES/02_ControlFlow/13_Loop_Control_Statements/04_Nested_Loop_with_continue.test.js",
+
+    "test:2.14": "jest __tests__/EXERCISES/02_ControlFlow/14_Switch_Statements/*.test.js",
+    "test:2.14.1": "jest __tests__/EXERCISES/02_ControlFlow/14_Switch_Statements/01_Basic_Switch_Statement.test.js",
+    "test:2.14.2": "jest __tests__/EXERCISES/02_ControlFlow/14_Switch_Statements/02_Switch_Statement_with_Numeric_Values.test.js",
+    "test:2.14.3": "jest __tests__/EXERCISES/02_ControlFlow/14_Switch_Statements/03_Switch_Statement_with_Multiple_Cases.test.js",
+    "test:2.14.4": "jest __tests__/EXERCISES/02_ControlFlow/14_Switch_Statements/04_Switch_Statement_with_Fall-Through.test.js",
+    "test:2.14.5": "jest __tests__/EXERCISES/02_ControlFlow/14_Switch_Statements/05_Switch_Statement_with_Default_Case_Only.test.js",
+
+    "test:3": "jest __tests__/EXERCISES/03_Functions/**/*.test.js",
+
+    "test:3.15": "jest __tests__/EXERCISES/03_Functions/15_Declaring_Functions/*.test.js",
+    "test:3.15.1": "jest __tests__/EXERCISES/03_Functions/15_Declaring_Functions/01_Function_Declaration.test.js",
+    "test:3.15.2": "jest __tests__/EXERCISES/03_Functions/15_Declaring_Functions/02_Function_Expression.test.js",
+    "test:3.15.3": "jest __tests__/EXERCISES/03_Functions/15_Declaring_Functions/03_Arrow_Function.test.js",
+    "test:3.15.4": "jest __tests__/EXERCISES/03_Functions/15_Declaring_Functions/04_Function_with_Default_Parameter.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
