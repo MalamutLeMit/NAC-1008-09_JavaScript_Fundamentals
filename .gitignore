@@ -1,1 +1,5 @@
+# iOS files
 **/.DS_Store
+# Node files/folders
+**/node_modules
+**/package-lock.json
