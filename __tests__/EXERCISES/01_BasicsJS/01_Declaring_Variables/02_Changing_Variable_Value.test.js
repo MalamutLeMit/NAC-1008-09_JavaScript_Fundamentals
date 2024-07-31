@@ -6,6 +6,3 @@ test('Check currentTemperature variable update', () => {
   expect(lines[0]).toBe('The current temperature is: 25');
   expect(lines[1]).toBe('Now the current temperature is: 30');
 });
-
-// To run this specific test, use the command below in the terminal:
-// npm run test:1.1.2
