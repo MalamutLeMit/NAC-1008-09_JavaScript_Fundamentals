@@ -4,10 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
-
-    "test:1": "jest __tests__/EXERCISES/01_BasicsJS/**/*.test.js",
-
+   
     "test:1.1": "jest __tests__/EXERCISES/01_BasicsJS/01_Declaring_Variables/*.test.js",
     "test:1.1.1": "jest __tests__/EXERCISES/01_BasicsJS/01_Declaring_Variables/01_Declare_a_Variable.test.js",
     "test:1.1.2": "jest __tests__/EXERCISES/01_BasicsJS/01_Declaring_Variables/02_Changing_Variable_Value.test.js",
@@ -75,7 +72,6 @@
     "test:1.9.4": "jest __tests__/EXERCISES/01_BasicsJS/09_Logical_Operators/04_Complex_Logical_Operation.test.js",
     "test:1.9.5": "jest __tests__/EXERCISES/01_BasicsJS/09_Logical_Operators/05_Short-Circuit_Evaluation.test.js",
 
-    "test:2": "jest __tests__/EXERCISES/02_ControlFlow/**/*.test.js",
 
     "test:2.10": "jest __tests__/EXERCISES/02_ControlFlow/10_Conditional_Statements/*.test.js",
     "test:2.10.1": "jest __tests__/EXERCISES/02_ControlFlow/10_Conditional_Statements/01_Simple_if_Statement.test.js",
@@ -111,7 +107,6 @@
     "test:2.14.4": "jest __tests__/EXERCISES/02_ControlFlow/14_Switch_Statements/04_Switch_Statement_with_Fall-Through.test.js",
     "test:2.14.5": "jest __tests__/EXERCISES/02_ControlFlow/14_Switch_Statements/05_Switch_Statement_with_Default_Case_Only.test.js",
 
-    "test:3": "jest __tests__/EXERCISES/03_Functions/**/*.test.js",
 
     "test:3.15": "jest __tests__/EXERCISES/03_Functions/15_Declaring_Functions/*.test.js",
     "test:3.15.1": "jest __tests__/EXERCISES/03_Functions/15_Declaring_Functions/01_Function_Declaration.test.js",
