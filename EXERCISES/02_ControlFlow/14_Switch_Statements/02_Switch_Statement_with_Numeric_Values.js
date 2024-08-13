@@ -24,7 +24,7 @@ switch () {
   default:
 
 }
-// example of Expected Output: The number is one.
+// Example of Expected Output: The number is one.
 
 
 

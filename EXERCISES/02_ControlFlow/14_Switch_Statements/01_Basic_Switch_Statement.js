@@ -41,7 +41,7 @@ switch () {
     break;
   default:
 }
-// exampple of Expected Output: It's the middle of the week.
+// Example of Expected Output: It's the middle of the week.
 
 
 
