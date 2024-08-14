@@ -1,8 +1,10 @@
 // Exercise 3.15.4
 
-// Step 1: Declare a function (or arrow function) named 'greetUser' that takes a parameter 'name' and a default parameter 'greeting' set to 'Hello'.
-    // The function should return a personalized greeting.
-    // Hint: (x, y = 'string') { return ...; }
+// Step 1: Declare a function (or arrow function) named 'greetUser' that takes two parameters, 
+    // the first parameter should be named 'name',
+    // and the second parameter should be named 'greeting' with a default value of 'Hello'.
+        // The function should return a personalized greeting.
+        // Hint: function(x, y = 'string') {return `${...}, ${...}!`;}
 // Write your code below
 
 

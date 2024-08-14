@@ -7,12 +7,12 @@
 
 
 // Step 2: Use a do-while loop to iterate a count from 0 to 4 and log each iteration.
-// Hint: do {log; count++} whilte (x<5)
-// Write your code below
+// Hint: do {log; count++} while (x<5)
 do {
   // Don't change the code of the console.log()
   console.log('Iteration ' + count);
-  
+  // Write your code below
+
 } while ();
 // Expected Output:
 // Iteration 0
