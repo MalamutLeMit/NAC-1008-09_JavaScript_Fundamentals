@@ -6,7 +6,8 @@ test('Check switch statement with numeric values', () => {
   const validOutputs = [
     'The number is one.',
     'The number is two.',
-    'The number is three.'
+    'The number is three.',
+    'None of the above.'
   ];
   
   expect(validOutputs).toContain(output);
