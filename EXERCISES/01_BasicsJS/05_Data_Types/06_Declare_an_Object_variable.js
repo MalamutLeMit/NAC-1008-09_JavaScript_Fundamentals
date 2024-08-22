@@ -10,7 +10,7 @@
 
 // Don't change the code of the console.log()
 console.log(person);
-// Expected Output: { firstname: 'John', age: 28, isActive: true }
+// Expected Output: { firstname: 'John', age: 30, isActive: true }
 
 
 
