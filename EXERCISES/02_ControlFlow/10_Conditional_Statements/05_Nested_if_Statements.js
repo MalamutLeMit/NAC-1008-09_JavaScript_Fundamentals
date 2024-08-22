@@ -15,6 +15,7 @@ if () {
   if () {
 
   }
+  console.log('Good day!');
 }
 // Expected Output: Good morning
 
